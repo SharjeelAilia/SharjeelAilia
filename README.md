@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SharjeelAilia  
+- Hi, I’m @SharjeelAilia  
 - 👀 I’m interested in learning how to turn coffee into code (and code into money).  
 - 🌱 I’m currently learning coding—and by "learning," I mean Googling every error message I get.  
 - 💞️ I’m looking to collaborate on projects that sound cooler than they actually are.  
